@@ -13,3 +13,12 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Ignoring media
+*.mkv
+*.mp4
+*.3gp
+*.mp3
+*.wav
+*.jpg
+*.jpeg
